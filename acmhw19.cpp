@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 /*************************************************
 * N.Kozak // Lviv'2020 // ACM // STL use example *
-*    file: acmhw17.cpp                           *
+*    file: acmhw19.cpp                           *
 **************************************************/
 #include <ctype.h>
 
@@ -155,7 +155,7 @@ int main(){
 		"Worse than the mutines in the bilboes. Rashly- "
 		"And prais'd be rashness for it-let us know "
 		"Our indiscretion sometimes serves us well ... "
-		; // — Hamlet, Act 5, Scene 2, 4–8
+		; // â€” Hamlet, Act 5, Scene 2, 4â€“8
 
 	scan(&text, list);
 	sort(&text, list);
